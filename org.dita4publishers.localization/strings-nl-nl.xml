@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings xml:lang="nl-nl">
+    <!--part for org.dita4publishers.common.html-->
+    <str name="Appendix">Bijlage&#160;</str>
+    <str name="Chapter">Hoofdstuk&#160;</str>
+    <str name="Part">Deel&#160;</str>
+    <!--part for org.dita4publishers.epub -->
+    <str name="Landmarks">Herkenningspunten</str>
+    <str name="ListOfAudio">Lijst met audio</str>
+    <str name="ListOfIllustrations">Lijst van illustraties</str>
+    <str name="ListOfFigures">Lijst van figuren</str>
+    <str name="ListOfTables">Lijst van tabellen</str>
+    <str name="ListOfVideos">Lijst van videos</str>
+    <str name="BriefToC">Korte inhoudsopgave</str>
+    <str name="Notes">Opmerkingen</str>
+</strings>
